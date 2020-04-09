@@ -129,7 +129,7 @@ def login():
 		print logo
 		jalan(' \033[1;91mWarning: \033[1;93mTermux Old Version Install 0.63 to 0.83' )
 		jalan(' \033[1;91m   Note: \033[1;93mUse a New Account To Login' )
-		print "033[1;97mBlackMafia"
+		print "033[1;97mHamza Madiha The Official Programmers [H.M.O.P]"
 		print('	   \033[1;97m■\x1b[1;93mOGIN WITH FACEBOOK\x1b[1;97m■' )
 		print('	' )
 		id = raw_input('\033[1;97m[+] \x1b[1;93mID/Email\x1b[1;97m: \x1b[1;93m')
@@ -255,7 +255,7 @@ def pilih_super():
 	elif peak =="1":
 		os.system('clear')
 		print logo
-		print "\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•\033[1;97mHAMZA THE OFFICIAL PROGRAMMER [ H.O.P ]\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•"
+		print "\033[1;93mHAMZA MADIHA THE OFFICIAL PROGRAMMER [ H.M.O.P ]"
 		jalan('\033[1;97mGetting IDs \033[1;93m...')
 		r = requests.get("https://graph.facebook.com/me/friends?access_token="+toket)
 		z = json.loads(r.text)
@@ -264,8 +264,8 @@ def pilih_super():
 	elif peak =="2":
 		os.system('clear')
 		print logo
-		idt = raw_input("\033[1;93m[♡] \033[1;93mEnter ID\033[1;93m: \033[1;97m")
-		print "\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•\033[1;97mHAMZA THE OFFICIAL PROGRAMMER [ H.O.P ]\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•"
+		idt = raw_input("\033[1;97m[♡] \033[1;97mEnter ID\033[1;97m: \033[1;97m")
+		print "\033[1;93mHAMZA  MADIHA THE OFFICIAL PROGRAMMER [ H.M.O.P ]"
 		try:
 			jok = requests.get("https://graph.facebook.com/"+idt+"?access_token="+toket)
 			op = json.loads(jok.text)
@@ -424,21 +424,34 @@ def pilih_super():
 		
 	p = ThreadPool(30)
 	p.map(main, id)
-	print "\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•\033[1;97mBlackMafia\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•"
-	print "  \033[1;93m«❥•❥•❥•❥•Developed By love❥•❥•❥•❥•»" #Dev:love_hacker
+	print "\033[1;93mTESTED BY MADIHA CH"
+	print "\033[1;93m DEVELOPED BY MUHAMMAD HAMZA" #Dev:MUHAMMAD_HAMZA
 	print '\033[1;93mProcess Has Been Completed\033[1;97m....'
 	print"\033[1;92mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;97m"+str(len(oks))+"\033[1;97m/\033[1;93m"+str(len(cekpoint))
 	print """
+             __________________
+            < Anonymous Hacker >
+             ------------------
+              \
+               \
+                                   .::!!!!!!!:.
+  .!!!!!:.                        .:!!!!!!!!!!!!
+  ~~~~!!!!!!.                 .:!!!!!!!!!UWWW$$$
+      :$$NWX!!:           .:!!!!!!XUWW$$$$$$$$$P
+      $$$$$##WX!:      .<!!!!UW$$$$"  $$$$$$$$#
+      $$$$$  $$$UX   :!!UW$$$$$$$$$   4$$$$$*
+      ^$$$B  $$$$\     $$$$$$$$$$$$   d$$R"
+         *$bd$$$$       *$$$$$$$$$$$o+#
              
-             ...........███ ]▄▄▄▄▄▃❥•❥•❥•❥•
-             ..▂▄▅█████▅▄▃▂
-             [███████████████]
-             ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙◤
-••••••••••••••❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•••••••••••.
-: \033[1;97m ❥•❥•❥•❥•lovehacker  BlackMafia❥•❥•❥•❥• \033[1;93m :
-••••••••••••••❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•❥•••••••••••.' 
-                whatsapp Num
-               +923094161457"""
+  _    _       __  __
+ | |  | |     |  \/  |
+ | |__| | __ _| \  / |______ _
+ |  __  |/ _` | |\/| |_  / _` |
+ | |  | | (_| | |  | |/ / (_| |
+ |_|  |_|\__,_|_|  |_/___\__,_| """
+
+
+
 	
 	raw_input("\n\033[1;93m[\033[1;91mBack\033[1;93m]")
 	menu()
