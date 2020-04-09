@@ -57,20 +57,20 @@ logo = """
 |_| |_|_| |_|_|   |_/_____)_| |_|
                                      
 √=============================================√
-|•••••• FACEBOOK  CLONING BY HAMZA     ••••••|
+|•••••• FACEBOOK  CLONING BY HAMZA      ••••••|
 √=============================================√
-|            MOD BY: MUHAMMAD HAMZA           |
+|            CHECK    BY  MADIHA CH           |
 |       Donot Use It For illegal purpose      |
 |           FACEBOOK: Muhammad Hamza          |
 |  EDITING MY SCRIPTS WILL NOT MAKE A MASTER  |
 |              OF CODING AND HACKING          | 
 |---------------------------------------------|
-|     HAMZA THE OFFICIAL PROGRAMMER [ H.O.P ] |
+|HAMZA AND MAHIDA THE OFFICIAL PROGRAMMER[H.M]|
 |---------------------------------------------|
 √=============================================√
 |••••••••• ^_^ HACK FACEBOOK ^_^  •••••••••   |
-|          ^_^ WHATSAPP +92309-7992202 ^_^    |
-|               ^_^ Love You Afza ^_^         |
+|     ^_^ WHATSAPP +92309-7992202 ^_^         |
+|           ^_^ Love You Afza ^_^             |
 √=============================================√"""
 
 
@@ -95,11 +95,11 @@ print "\033[1;96m ============================================================"
 print """
 \033[1:96m√=============================================√
 \033[1:96m|••••ASSALAMU ALAIKUM••••|AIK BAAR DAROOD PAK |
-\033[1:96m|                               ZROR PARHY . SHUKRIA"""
+\033[1:96m|      ZROR PARHY. BY HAMZA AND MADIHA        |"""
 print """ \033[1;96m============================================================="""
 
 CorrectUsername = "hamza"
-CorrectPassword = "1626"
+CorrectPassword = "madiha"
 
 loop = 'true'
 while (loop == 'true'):
