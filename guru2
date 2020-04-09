@@ -93,12 +93,13 @@ print  """
  \033[1;93m|  __  |/ _` | |\/| |_  / _` |
  \033[1;93m| |  | | (_| | |  | |/ / (_| |
 \033[1;93m |_|  |_|\__,_|_|  |_/___\__,_|
-\033[1;93m 👉 Don't Use Old Fb Account
+\033[1;97m 👉 Don't Use Old Fb Account
 \033[1;97m 👉 Don't Use Your Real Account
 \033[1;97m 👉 The Developer Is Not Responsible For Any Illegal Activity
 \033[1;97m 👉 USE New Account
 \033[1;97m 👉 If U Need Any Help U Can Contact Me At Facebook And Whatsapp """
-print "\033[1;93mCODDED BY HAMZA•\033[1;97mLogin Tool"
+print "\033[1;93mCODDED BY HAMZA•"
+print  "\033[1;97mLogin Tool"
 
 CorrectUsername = "hamza"
 CorrectPassword = "1626"
