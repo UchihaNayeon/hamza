@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To lovehacker
+#The CrDevelopment Credit For This Script Goes To Muhammad Hamza
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -48,23 +48,23 @@ def jalan(z):
 		sys.stdout.flush()
 		time.sleep(0.07)
 
-#Dev:love_hacker
+#Dev:Muhammad Hamza
 ##### LOGO #####
 logo = """
-\033[1;97m √=============================================√
-\033[1;97m |•••••• FACEBOOK  CLONING BY HAMZA     ••••••|
-\033[1;97m √=============================================√
-\033[1;97m |            MOD BY: MUHAMMAD HAMZA           |
-\033[1;97m |       Donot Use It For illegal purpose      |
+\033[1;93m √=============================================√
+\033[1;93m |•••••• FACEBOOK  CLONING BY HAMZA      ••••••|
+\033[1;93m √=============================================√
+\033[1;93m |            TESTED BY :  MADIHA CH           |
+\033[1;93m |       Donot Use It For illegal purpose      |
 \033[1;93m |           FACEBOOK: Muhammad Hamza          |
 \033[1;93m |  EDITING MY SCRIPTS WILL NOT MAKE A MASTER  |
-\033[1;93m |              OF CODING AND HACKING          | 
+\033[1;93m |            OF CODING AND HACKING            | 
 \033[1;93m |---------------------------------------------|
-\033[1;93m |     HAMZA THE OFFICIAL PROGRAMMER [ H.O.P ] |
+\033[1;93m |  HAMZA MADIHA THE OFFICIAL PROG[H.M.O.P]    |
 \033[1;93m |---------------------------------------------|
 \033[1;93m √=============================================√
-\033[1;93m |••••••••• ^_^ HACK FACEBOOK ^_^  •••••••••   | 
-\033[1;97m |          ^_^ WHATSAPP +92309-7992202 ^_^    |
+\033[1;93m |•••••••••  ^_^ HACK FACEBOOK ^_^  •••••••••  | 
+\033[1;93m |      ^_^ WHATSAPP +92309-7992202 ^_^        |
 \033[1;93m √=============================================√"""
 
 def tik():
@@ -84,21 +84,21 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
- \033[1;97m  __________________
- \033[1;97m < Anonymous Hacker >
- \033[1;97m  ------------------
+ \033[1;93m  __________________
+ \033[1;93m < Anonymous Hacker >
+ \033[1;93m  ------------------
  \033[1;93m _    _       __  __
  \033[1;93m| |  | |     |  \/  |
  \033[1;93m| |__| | __ _| \  / |______ _
  \033[1;93m|  __  |/ _` | |\/| |_  / _` |
  \033[1;93m| |  | | (_| | |  | |/ / (_| |
-\033[1;97m |_|  |_|\__,_|_|  |_/___\__,_|
+\033[1;93m |_|  |_|\__,_|_|  |_/___\__,_|
 \033[1;93m 👉 Don't Use Old Fb Account
 \033[1;97m 👉 Don't Use Your Real Account
 \033[1;97m 👉 The Developer Is Not Responsible For Any Illegal Activity
 \033[1;97m 👉 USE New Account
 \033[1;97m 👉 If U Need Any Help U Can Contact Me At Facebook And Whatsapp """
-print "\033[1;93mCODDED BY HAMZA•\033[1;97mLogin Tool\033[1;93m•❥•❥•❥•❥•❥•❥•❥•❥•"
+print "\033[1;93mCODDED BY HAMZA•\033[1;97mLogin Tool"
 
 CorrectUsername = "hamza"
 CorrectPassword = "1626"
